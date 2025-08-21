@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **senanayakeabhimani@gmail.com**
 
+- ⚡ Fun fact **I love solving complex coding problems and enjoy learning new programming languages!**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
