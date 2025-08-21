@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishodhara Abhimani</h1>
 <h3 align="center">A full-stack developer from Sri Lanka</h3>
-<img align="right" src="https://www.google.com/imgres?q=programmer%20laptop%20git%20gif%20image%20girl&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fe7%2F26%2Fc7%2Fe726c74ac081eed50feee1433d12c998.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fhello-dribbble-by-chlo-chassany--422281207608337%2F&docid=2EXxn-gw2xYb_M&tbnid=tkD88475CNPNmM&vet=12ahUKEwiOsunhspyPAxVchq8BHakINicQM3oECCIQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwiOsunhspyPAxVchq8BHakINicQM3oECCIQAA" alt="git-sumana" width="300px" />
+<img align="right" src="<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/d970d585-09e9-427b-a001-b25075896b4f" />
+" alt="git-sumana" width="300px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishodhara&label=Profile%20views&color=0e75b6&style=flat" alt="ishodhara" /> </p>
 
 - 🌱 I’m currently learning **IJSE (Institute of Software Engineering)**
